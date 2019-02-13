@@ -9,8 +9,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.version>1.8</maven.compiler.version>
         <encoding>UTF-8</encoding>
-        <scala.version>2.11.8</scala.version>
-        <spark.version>2.1.0</spark.version>
+        <scala.version>2.11.12</scala.version>
+        <spark.version>2.2.0</spark.version>
         <project.version>0.0.1-SNAPSHOT</project.version>
         <mysql-connector.version>5.1.25</mysql-connector.version>
         <guava.version>17.0</guava.version>
